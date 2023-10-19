@@ -1,0 +1,5 @@
+.local/share/rstudio/
+File sql/
+metallizationdata.csv
+backup/
+sql/
